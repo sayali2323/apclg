@@ -1,3 +1,3 @@
 # apclg
 my first git
-author sayali thombare
+author name = sayali thombare
